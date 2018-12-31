@@ -3,4 +3,5 @@ vim loko1
 test line2
 test line3
 test line4
-test line5 1231`
+test line5
+test line6 1231
